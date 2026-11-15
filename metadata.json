@@ -1,0 +1,6 @@
+{
+  "name": "AdForge",
+  "description": "AI-powered UGC video ad script and creative studio for high-converting Meta ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
